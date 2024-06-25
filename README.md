@@ -1,4 +1,4 @@
-## This is my java work
+## My java work
 
 * Jave_Snake_Game
 
